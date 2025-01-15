@@ -4,8 +4,8 @@ This repository is designed to provide practical examples and tutorials for lear
 
 ## Contents
 - Data Science Basics: Learn how to work with data using Python, including data cleaning, transformation, and visualization.
+- Popular Libraries: Get familiar with importing popular Python libraries to define and resolve problems.
 - Machine Learning: Introduction to supervised and unsupervised learning with hands-on examples.
-- Deep Learning: Tutorials on building and training neural networks with TensorFlow and Keras.
 - Projects: Real-world projects and case studies to help solidify concepts and develop practical skills.
   
 ## Features
