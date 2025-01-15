@@ -7,7 +7,7 @@ This repository is designed to provide practical examples and tutorials for lear
 - Machine Learning: Introduction to supervised and unsupervised learning with hands-on examples.
 - Deep Learning: Tutorials on building and training neural networks with TensorFlow and Keras.
 - Projects: Real-world projects and case studies to help solidify concepts and develop practical skills.
-- 
+  
 ## Features
 - Beginner-friendly to advanced-level tutorials.
 - Code examples with step-by-step explanations.
